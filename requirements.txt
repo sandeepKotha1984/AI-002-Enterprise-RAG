@@ -1,0 +1,2 @@
+# Python dependencies for the Enterprise RAG project
+# Add project requirements here as they are introduced.
